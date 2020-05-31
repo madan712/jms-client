@@ -1,4 +1,4 @@
-package com.example.testjmsclient;
+package com.javaxp.testjmsclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

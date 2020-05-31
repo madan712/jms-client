@@ -1,4 +1,4 @@
-package com.example.testjmsclient;
+package com.javaxp.testjmsclient;
 
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Component;
